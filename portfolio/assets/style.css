@@ -539,7 +539,7 @@ section {
 
 
 #exp-1:hover, #exp-2:hover {
-    transform: scale(1.02);
+    transform: scale(1.03);
 }
 article .icon {
     cursor: default;
